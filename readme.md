@@ -1,3 +1,3 @@
-Name: WONG,Lap Wang</br>
-Student ID: 20602036
+Name: John</br>
+Student ID: 12345678
 ![historyPNG](lab1History.png)
